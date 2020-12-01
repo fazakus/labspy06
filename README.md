@@ -203,15 +203,18 @@ Penjelasan :
     * Dengan ada data
     ![menul2](Pic/menul2.png)<br>
     
+    
   * Menu Tambah
   Disini saya mencoba menambahkan 2 data<br>
   ![menut1](Pic/menut1.png)<br>
+  
   
   * Menu Ubah
     * Bila berhasil mengubah data<br>
     ![menuu1](Pic/menuu1.png)
     * Setelah mengubah data, lalu melihat data yang diubah<br>
     ![menuu2](Pic/menuu2.png)<br>
+  
   
   * Menu Hapus
     * Bila berhasil menghapus data<br>
@@ -220,7 +223,8 @@ Penjelasan :
     ![menuh2](Pic/menuh2.png)<br>
     Data yang berhasil di hapus sudah tidak ada lagi pada tabel
     
-  * Menu Keluar
+    
+  * Menu Keluar<br>
   ![menuk](Pic/menuk.png)
   
 
