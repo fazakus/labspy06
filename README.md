@@ -63,7 +63,10 @@ Berikut outputnya<br>
 Untuk tugas 6 bisa dilihat pada gambar dibawah ini<br>
 ![tugas](Pic/praktikum.png)<br>
 Tugasnya adalah membuat program sederhana data mahasiswa menggunakan fungsi, untuk menambah, menampilkan, menghapus, dan mengubah pada program tersebut<br>
-Kurang lebih sama dengan tugas praktikum 5 hanya saja disini untuk menambah, menampilkan, merubah dan menghapus menggunakan fungsi yaitu **def**. Fungsi **def** di state di awal, baru di gunakan di bawahnya seperti source code berikut
+Berikut untuk flowchartnya <br>
+![fc](Pic/flowchart-labspy06wm.png)<br>
+
+Kurang lebih sama dengan tugas praktikum 5 hanya saja disini untuk menambah, menampilkan, merubah dan menghapus menggunakan fungsi yaitu **def**. Fungsi **def** di state di awal atau di deklarasikan di awal setelah **dictionary** sebelum **While True**, baru di gunakan di bawahnya seperti source code berikut
 
 ```python
 data = {}
